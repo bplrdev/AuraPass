@@ -69,7 +69,7 @@ AuraPass is built with a modern and powerful set of technologies:
 AuraPass is an independent project built with care, not capital. It's free, open-source, and contains no ads, investors, or compromises.
 
 If AuraPass brings you peace of mind and you'd like to support its continued development, please consider making a donation. Every contribution helps keep the project alive and independent.
-
+<br>
 <p align="center">
   <a href="https://ko-fi.com/bplr" target="_blank">
     <img src="https://storage.ko-fi.com/cdn/kofi3.png?v=3" alt="Donate on Ko-fi" height="45">
@@ -87,6 +87,7 @@ This project is licensed under the PolyForm Noncommercial License 1.0.0 - see th
   <a href="mailto:hello@bplr.dev">Contact</a>
 
 </p>
+
 
 
 
