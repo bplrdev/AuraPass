@@ -33,10 +33,12 @@
 *   🛡️ **Strong Encryption:** Secures your vault with **AES-256-GCM** encryption. Your master key is derived using **PBKDF2** with 500,000 iterations, providing robust protection against brute-force attacks.
 *   🔑 **Password Recovery:** Forget your master password? No problem. Each vault is created with a unique 24-word mnemonic recovery phrase, allowing you to regain access and set a new password.
 *   🎨 **Beautiful & Customizable UI:** Choose from multiple themes (including light and dark modes), adjust UI transparency, and even change the font to create an experience that's uniquely yours.
+
 *   👁️‍🗨️ **Security Auditing:**
     *   **Weak Password Detection:** Identifies simple and easy-to-guess passwords.
     *   **Reused Password Check:** Alerts you if you're using the same password across multiple accounts.
     *   **Breached Password Check:** Securely and anonymously checks your passwords against the Have I Been Pwned database.
+
 *   🌐 **Automatic Icon Fetching:** Integrates with BrandFetch to automatically find and display official logos for your providers, making your vault clean and easy to navigate.
 *   🔒 **Auto-Lock & Secure Clipboard:** Automatically locks the application after a period of inactivity and clears copied passwords from your clipboard after a configurable timeout.
 *   ⚡ **Modern Tech Stack:** Built with Electron, React, TypeScript, and Vite for a fast, reliable, and cross-platform desktop experience.
@@ -85,6 +87,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
   <a href="mailto:hello@bplr.dev">Contact</a>
 
 </p>
+
 
 
 
