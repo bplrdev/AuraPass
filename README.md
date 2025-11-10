@@ -37,7 +37,7 @@
 *   👁️‍🗨️ **Security Auditing:**
     *   **Weak Password Detection:** Identifies simple and easy-to-guess passwords.
     *   **Reused Password Check:** Alerts you if you're using the same password across multiple accounts.
-    *   **Breached Password Check:** Securely and anonymously checks your passwords against the Have I Been Pwned database.
+    *   **Breached Password Check:** Verifies if your passwords have appeared in known data leaks - done safely, without ever sending your real password, only a small anonymous fingerprint of it.
 
 *   🌐 **Automatic Icon Fetching:** Integrates with BrandFetch to automatically find and display official logos for your providers, making your vault clean and easy to navigate.
 *   🔒 **Auto-Lock & Secure Clipboard:** Automatically locks the application after a period of inactivity and clears copied passwords from your clipboard after a configurable timeout.
@@ -101,6 +101,7 @@ Licensed under the Freeware / Donationware License. See [LICENSE](LICENSE) for d
   <a href="mailto:hello@bplr.dev">Contact</a>
 
 </p>
+
 
 
 
