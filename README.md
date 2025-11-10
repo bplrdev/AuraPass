@@ -66,7 +66,7 @@ Built with a modern and powerful set of technologies:
 
 ## ❤️ Support the Project
 
-AuraPass is an independent project built with care, not capital. It's free, open-source, and contains no ads, investors, or compromises.
+AuraPass is an independent project built with care, not capital. It's free, and contains no ads, investors, or compromises.
 
 If AuraPass brings you peace of mind and you'd like to support its continued development, please consider making a donation. Every contribution helps keep the project alive and independent.
 <p>
@@ -89,6 +89,7 @@ This project is licensed under the PolyForm Noncommercial License 1.0.0 - see th
   <a href="mailto:hello@bplr.dev">Contact</a>
 
 </p>
+
 
 
 
