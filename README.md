@@ -81,10 +81,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 <p align="center">
-  <a href="https://aurapass.dev">Project Website</a> &nbsp;&middot;&nbsp;
-  <a href="https://bplr.dev">Developer</a> &nbsp;&middot;&nbsp;
-  <a href="mailto:contact@aurapass.dev">Contact</a>
+  <a href="https://bplr.dev">Project Website</a> &nbsp;&middot;&nbsp;
+  <a href="mailto:hello@bplr.dev">Contact</a>
 
 </p>
+
 
 
