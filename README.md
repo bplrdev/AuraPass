@@ -55,7 +55,7 @@ That's it! You can now launch AuraPass and create your first secure vault.
 
 ## 🛠️ Technology Stack
 
-AuraPass is built with a modern and powerful set of technologies:
+Built with a modern and powerful set of technologies:
 
 *   **Framework:** [Electron](https://www.electronjs.org/)
 *   **UI Library:** [React](https://reactjs.org/)
@@ -89,6 +89,7 @@ This project is licensed under the PolyForm Noncommercial License 1.0.0 - see th
   <a href="mailto:hello@bplr.dev">Contact</a>
 
 </p>
+
 
 
 
