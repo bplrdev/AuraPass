@@ -1,7 +1,10 @@
 # AuraPass - Secure Local Password Vault
 
+<p align="center">
+  <img alt="AuraPass Banner" src="https://raw.githubusercontent.com/bplrdev/AuraPass/main/resources/aurapass_banner.png">
+</p>
+
 <div align="center">
-![AuraPass Banner](https://raw.githubusercontent.com/bplrdev/AuraPass/main/resources/aurapass_banner.png)
 
 [![Latest Release](https://img.shields.io/github/v/release/bplrdev/AuraPass?style=for-the-badge&color=8257E6)](https://github.com/bplrdev/AuraPass/releases/latest)
 [![Platform](https://img.shields.io/badge/platform-Windows-0078D6.svg?style=for-the-badge)](https://github.com/bplrdev/AuraPass/releases/latest)
