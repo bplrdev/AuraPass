@@ -74,7 +74,7 @@ If AuraPass brings you peace of mind and you'd like to support its continued dev
 </p>
 <p align="center">
   <a href="https://ko-fi.com/bplr" target="_blank">
-    <img src="https://storage.ko-fi.com/cdn/kofi3.png?v=3" alt="Donate on Ko-fi" height="45">
+    <img src="https://storage.ko-fi.com/cdn/kofi4.png?v=4" alt="Donate on Ko-fi" height="45">
   </a>
 </p>
 
@@ -89,6 +89,7 @@ This project is licensed under the PolyForm Noncommercial License 1.0.0 - see th
   <a href="mailto:hello@bplr.dev">Contact</a>
 
 </p>
+
 
 
 
