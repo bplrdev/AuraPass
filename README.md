@@ -52,7 +52,7 @@ Here’s what’s currently in the pipeline:
 *   📥 **Import from Browser:** Seamlessly import saved passwords from your preferred web browser.
 *   📤 **Export to CSV:** Safely export your vault contents in a browser-compatible CSV format for backup or migration.
 
-Stay tuned — more enhancements, customization options, and cross-platform improvements are coming soon!
+Stay tuned — more enhancements, customization options are coming soon!
 
 
 ## 🚀 Installation
@@ -101,6 +101,7 @@ Licensed under the Freeware / Donationware License. See [LICENSE](LICENSE) for d
   <a href="mailto:hello@bplr.dev">Contact</a>
 
 </p>
+
 
 
 
