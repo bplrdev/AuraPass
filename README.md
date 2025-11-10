@@ -45,7 +45,7 @@
 
 ## 🚀 Installation
 
-AuraPass is currently available for **Windows** only.
+AuraPass is currently available for **Windows** OS only. macOS and Linux might be supported in the future.
 
 1.  Go to the [**Latest Release**](https://github.com/bplrdev/AuraPass/releases/latest) page.
 2.  Download the `AuraPass-Setup-x.x.x.exe` installer.
@@ -89,6 +89,7 @@ This project is licensed under the PolyForm Noncommercial License 1.0.0 - see th
   <a href="mailto:hello@bplr.dev">Contact</a>
 
 </p>
+
 
 
 
