@@ -11,8 +11,9 @@ the Software for personal, non-commercial purposes only, subject to the followin
 2. The Software shall not be sold, rented, leased, sublicensed, redistributed, or included
    in any commercial offering, package, or service without explicit written permission
    from bplr.dev.
-3. This license does not grant any rights to the source code of the Software.
-   The Software remains proprietary and closed-source.
+3. This license applies only to the compiled release version of AuraPass. The source code
+   is not currently public and remains proprietary, though it may be released under a
+   separate open-source license in the future at the discretion of bplr.dev.
 4. You may share official download links or references to the AuraPass website
    (https://bplr.dev) but may not host or distribute the Software yourself.
 5. AuraPass is distributed as Freeware / Donationware. Donations to support continued
