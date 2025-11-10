@@ -1,6 +1,6 @@
 # AuraPass - Secure Local Password Vault
 
-![AuraPass Banner](https://raw.githubusercontent.com/bplrdev/AuraPass/main/assets/aurapass-social-card.png)
+![AuraPass Banner](https://raw.githubusercontent.com/bplrdev/AuraPass/main/resources/aurapass_banner.png)
 
 <div align="center">
 
@@ -84,3 +84,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
   <a href="mailto:contact@aurapass.dev">Contact</a>
 
 </p>
+
