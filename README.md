@@ -78,7 +78,7 @@ If AuraPass brings you peace of mind and you'd like to support its continued dev
 
 ## 📜 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the PolyForm Noncommercial License 1.0.0 - see the [LICENSE](LICENSE) file for details.
 
 ---
 
@@ -87,6 +87,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
   <a href="mailto:hello@bplr.dev">Contact</a>
 
 </p>
+
 
 
 
