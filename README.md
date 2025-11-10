@@ -43,6 +43,18 @@
 *   🔒 **Auto-Lock & Secure Clipboard:** Automatically locks the application after a period of inactivity and clears copied passwords from your clipboard after a configurable timeout.
 *   ⚡ **Modern Tech Stack:** Built with Electron, React, TypeScript, and Vite for a fast, reliable, and cross-platform desktop experience.
 
+
+## 🧭 Roadmap & Upcoming Features
+
+AuraPass is actively developed, with new updates and refinements on the way.  
+Here’s what’s currently in the pipeline:
+
+*   📥 **Import from Browser:** Seamlessly import saved passwords from your preferred web browser.
+*   📤 **Export to CSV:** Safely export your vault contents in a browser-compatible CSV format for backup or migration.
+
+Stay tuned — more enhancements, customization options, and cross-platform improvements are coming soon!
+
+
 ## 🚀 Installation
 
 AuraPass is currently available for **Windows** OS only. macOS and Linux might be supported in the future.
@@ -89,6 +101,7 @@ Licensed under the Freeware / Donationware License. See [LICENSE](LICENSE) for d
   <a href="mailto:hello@bplr.dev">Contact</a>
 
 </p>
+
 
 
 
