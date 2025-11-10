@@ -8,7 +8,7 @@
 
 [![Latest Release](https://img.shields.io/github/v/release/bplrdev/AuraPass?style=for-the-badge&color=8257E6)](https://github.com/bplrdev/AuraPass/releases/latest)
 [![Platform](https://img.shields.io/badge/platform-Windows-0078D6.svg?style=for-the-badge)](https://github.com/bplrdev/AuraPass/releases/latest)
-[![License](https://img.shields.io/badge/license-AuraPass%20Freeware-8257E6?style=for-the-badge)](https://github.com/bplrdev/AuraPass/blob/main/LICENSE)
+[![License](https://img.shields.io/badge/license-FREE%20%2F%20DONATIONWARE-8257E6?style=for-the-badge)](https://github.com/bplrdev/AuraPass/blob/main/LICENSE)
 [![Website](https://img.shields.io/badge/Website-bplr.dev-22D3EE.svg?style=for-the-badge)](https://bplr.dev)
 
 </div>
@@ -89,6 +89,7 @@ This project is licensed under the PolyForm Noncommercial License 1.0.0 - see th
   <a href="mailto:hello@bplr.dev">Contact</a>
 
 </p>
+
 
 
 
