@@ -6,7 +6,7 @@
 
 [![Latest Release](https://img.shields.io/github/v/release/bplrdev/AuraPass?style=for-the-badge&color=8257E6)](https://github.com/bplrdev/AuraPass/releases/latest)
 [![Platform](https://img.shields.io/badge/platform-Windows-0078D6.svg?style=for-the-badge)](https://github.com/bplrdev/AuraPass/releases/latest)
-[![License](https://img.shields.io/github/license/bplrdev/AuraPass?style=for-the-badge&color=informational)](https://github.com/bplrdev/AuraPass/blob/main/LICENSE)
+[![License](https://img.shields.io/badge/license-PolyForm%20Noncommercial-informational?style=for-the-badge)](https://github.com/bplrdev/AuraPass/blob/main/LICENSE)
 [![Website](https://img.shields.io/badge/Website-bplr.dev-22D3EE.svg?style=for-the-badge)](https://bplr.dev)
 
 </div>
@@ -67,7 +67,7 @@ AuraPass is an independent project built with care, not capital. It's free, open
 If AuraPass brings you peace of mind and you'd like to support its continued development, please consider making a donation. Every contribution helps keep the project alive and independent.
 
 <p align="center">
-  <a href="https://ko-fi.com/bplr.dev" target="_blank">
+  <a href="https://ko-fi.com/bplr" target="_blank">
     <img src="https://storage.ko-fi.com/cdn/kofi3.png?v=3" alt="Donate on Ko-fi" height="45">
   </a>
 </p>
@@ -82,4 +82,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
   <a href="https://aurapass.dev">Project Website</a> &nbsp;&middot;&nbsp;
   <a href="https://bplr.dev">Developer</a> &nbsp;&middot;&nbsp;
   <a href="mailto:contact@aurapass.dev">Contact</a>
+
 </p>
