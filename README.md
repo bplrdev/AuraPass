@@ -80,7 +80,7 @@ If AuraPass brings you peace of mind and you'd like to support its continued dev
 
 ## 📜 License
 
-Licensed under the AuraPass Freeware / Donationware License. See [LICENSE](LICENSE) for details.
+Licensed under the Freeware / Donationware License. See [LICENSE](LICENSE) for details.
 
 ---
 
@@ -89,6 +89,7 @@ Licensed under the AuraPass Freeware / Donationware License. See [LICENSE](LICEN
   <a href="mailto:hello@bplr.dev">Contact</a>
 
 </p>
+
 
 
 
