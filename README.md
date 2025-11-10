@@ -1,5 +1,6 @@
+<p align="center">
 # AuraPass - Secure Local Password Vault
-
+</p>
 <p align="center">
   <img alt="AuraPass Banner" src="https://raw.githubusercontent.com/bplrdev/AuraPass/main/resources/aurapass_banner.png">
 </p>
@@ -89,6 +90,7 @@ This project is licensed under the PolyForm Noncommercial License 1.0.0 - see th
   <a href="mailto:hello@bplr.dev">Contact</a>
 
 </p>
+
 
 
 
