@@ -15,7 +15,7 @@
 
 <br/>
 
-**AuraPass is a modern, beautiful, and secure password manager that runs entirely on your local machine.** Your privacy is paramount; your data is encrypted with a master password using the Web Crypto API and never leaves your device. Built for those who value security, privacy, and a clean user experience.
+**AuraPass is a modern and secure password manager that runs entirely on your local machine.** Your privacy is paramount; your data is encrypted with a master password using the Web Crypto API and never leaves your device. Built for those who value security, privacy, and a clean user experience.
 
 <br/>
 
@@ -89,6 +89,7 @@ Licensed under the Freeware / Donationware License. See [LICENSE](LICENSE) for d
   <a href="mailto:hello@bplr.dev">Contact</a>
 
 </p>
+
 
 
 
