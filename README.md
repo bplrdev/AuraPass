@@ -23,7 +23,7 @@
   TODO: SCREENSHOT HERE! 
 -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/bplrdev/AuraPass/main/assets/screenshot-placeholder.png" alt="AuraPass Application Screenshot" width="80%">
+  <img src="https://raw.githubusercontent.com/bplrdev/AuraPass/main/resources/aurapass_render.png" alt="AuraPass Application Screenshot" width="80%">
 </p>
 
 
@@ -89,6 +89,7 @@ This project is licensed under the PolyForm Noncommercial License 1.0.0 - see th
   <a href="mailto:hello@bplr.dev">Contact</a>
 
 </p>
+
 
 
 
